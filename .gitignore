@@ -1,0 +1,8 @@
+/build
+/obj
+*.png
+*.cbp
+*.depend
+*.layout
+*.docx
+*.pdf
